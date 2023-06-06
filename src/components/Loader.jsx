@@ -17,7 +17,7 @@ const CanvasLoader = () => {
       <p
         style={{
           fontSize: 14,
-          color: "#0000",
+          color: "#000",
           fontWeight: 800,
           marginTop: 40,
         }}
